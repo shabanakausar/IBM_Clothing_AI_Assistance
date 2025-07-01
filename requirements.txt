@@ -36,3 +36,4 @@ huggingface_hub
 sqlalchemy
 pymysql  # Add to requirements.txt
 requests
+ollama run granite3.2:8b
